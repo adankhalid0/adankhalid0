@@ -1,6 +1,6 @@
 Hei, jeg heter Khalid 👋
 
-Sikkerhetsstudent interessert i penetration testing, cloud security og defensiv sikkerhetsherding. Jeg liker å behandle prosjektene mine som reelle oppdrag — med grundig dokumentasjon, reproduserbare bevis (PoC) og faktisk re-testing av tiltakene jeg implementerer.
+Sikkerhetsstudent interessert i penetration testing, cloud security og defensiv sikkerhetsherding. Jeg liker å behandle prosjektene mine som reelle oppdrag med grundig dokumentasjon, reproduserbare bevis (PoC) og faktisk re-testing av tiltakene jeg implementerer.
 
 Hva jeg viser gjennom prosjektene mine
 
