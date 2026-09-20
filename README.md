@@ -25,7 +25,7 @@ aws-cloud-security-baseline
 Sikker AWS-grunnmur bygget med Terraform, skannet med Checkov før utrulling og revidert med Prowler etterpå  92 % CIS-compliance oppnådd, kritiske funn redusert fra flere til nesten null.
 
 aws-threat-detection-baseline
-Terraform-basert oppsett for trusseldeteksjon i AWS.
+Administrert trusseldeteksjon for AWS GuardDuty og Security Hub koblet til en reell varslingspipeline med EventBridge og SNS, deployet med Terraform og skannet i CI. Følger opp aws-cloud-security-baseline: der revideres sikker konfigurasjon, her verifiseres det om noen faktisk oppdager det når noe går galt testet end-to-end med GuardDutys egne test-funn, ikke bare i teorien.
 
 Verktøy og teknologi
 
