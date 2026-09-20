@@ -6,18 +6,15 @@ Hva jeg viser gjennom prosjektene mine
 
 
 🔎 Offensiv sikkerhet:
-
-Grey-box penetrasjonstesting etter OWASP WSTG / OWASP Top 10 — kartlegging, sårbarhetsanalyse, utnyttelse (PoC) og rapportering, med Burp Suite, OWASP ZAP, Nmap og Nikto
+grey-box penetrasjonstesting etter OWASP WSTG / OWASP Top 10 — kartlegging, sårbarhetsanalyse, utnyttelse (PoC) og rapportering, med Burp Suite, OWASP ZAP, Nmap og Nikto
 
 
 🛡️ Cloud security: 
-
-Sikker AWS-infrastruktur som kode med Terraform, statisk analyse med Checkov før utrulling, og compliance-revisjon med Prowler mot CIS AWS Foundations Benchmark — deployet mot reelle AWS-ressurser, ikke bare teori
+sikker AWS-infrastruktur som kode med Terraform, statisk analyse med Checkov før utrulling, og compliance-revisjon med Prowler mot CIS AWS Foundations Benchmark — deployet mot reelle AWS-ressurser, ikke bare teori
 
 
 🧱 Secure by Design:
-
-Flytter sikkerhetskritisk logikk dit den hører hjemme (server-side), fremfor å lappe enkeltfunn isolert — og verifiserer alltid at tiltakene faktisk virker gjennom re-testing
+flytter sikkerhetskritisk logikk dit den hører hjemme (server-side), fremfor å lappe enkeltfunn isolert — og verifiserer alltid at tiltakene faktisk virker gjennom re-testing
 Utvalgte prosjekter
 
 
