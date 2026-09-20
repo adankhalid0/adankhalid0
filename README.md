@@ -10,7 +10,7 @@ Utvalgte prosjekter
 
 headless-cms-pentest-case-study Anonymisert grey-box penetrasjonstest og full defensiv herding av en headless CMS-webapplikasjon (bacheloroppgave) Inkluderer sladdet PoC-bevis for hvert funn og en uavhengig brukertest som bekrefter at sikkerhetsherdingen ikke gikk på bekostning av brukervennligheten.
 
-aws-cloud-security-baseline Sikker AWS-grunnmur bygget med Terraform, skannet med Checkov før utrulling og revidert med Prowler etterpå — 92 % CIS-compliance oppnådd, kritiske funn redusert fra flere til nesten null.
+aws-cloud-security-baseline Sikker AWS-grunnmur bygget med Terraform, skannet med Checkov før utrulling og revidert med Prowler etterpå  92 % CIS-compliance oppnådd, kritiske funn redusert fra flere til nesten null.
 
 aws-threat-detection-baseline Terraform-basert oppsett for trusseldeteksjon i AWS.
 
