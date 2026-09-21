@@ -1,4 +1,4 @@
-Hei, jeg er Khalid 👋
+Hei, jeg heter Khalid 👋
 
 Jeg liker å finne ut hvordan systemer kan angripes og enda mer å bygge cloud-infrastruktur som stopper det. Fra å revidere AWS-kontoer mot CIS-benchmarks til å finne hardkodede passord i en reell pentest, her deler jeg det jeg bygger, angriper og fikser.
 
