@@ -6,6 +6,12 @@ Jeg liker å finne ut hvordan systemer kan angripes og enda mer å bygge cloud-i
 
 
 
+
+
+
+
+
+
 🚀 Utvalgte prosjekter
 
 🔓 headless-cms-pentest-case-study - Grey-box pentest og full sikkerhetsherding av en webapplikasjon
@@ -15,6 +21,9 @@ Jeg liker å finne ut hvordan systemer kan angripes og enda mer å bygge cloud-i
 
 
 🚨 aws-threat-detection-baseline - Trusseldeteksjon og varsling med GuardDuty og Security Hub
+
+
+
 
 
 
