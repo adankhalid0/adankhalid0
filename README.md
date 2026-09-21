@@ -3,6 +3,9 @@ Hei, jeg heter Khalid 👋
 Jeg liker å finne ut hvordan systemer kan angripes og enda mer å bygge cloud-infrastruktur som stopper det. Fra å revidere AWS-kontoer mot CIS-benchmarks til å finne hardkodede passord i en reell pentest, her deler jeg det jeg bygger, angriper og fikser.
 
 
+
+
+
 🚀 Utvalgte prosjekter
 
 🔓 headless-cms-pentest-case-study - Grey-box pentest og full sikkerhetsherding av en webapplikasjon
@@ -19,7 +22,10 @@ Jeg liker å finne ut hvordan systemer kan angripes og enda mer å bygge cloud-i
 
 
 
+🔧 Verktøy og teknologi
 
+
+Terraform · AWS · Checkov · Prowler · GuardDuty · Security Hub · EventBridge · SNS · Burp Suite · OWASP ZAP · Nmap · Nikto · GitHub Actions
 
 
 
