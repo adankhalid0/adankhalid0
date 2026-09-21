@@ -18,13 +18,16 @@ flytter sikkerhetskritisk logikk dit den hører hjemme (server-side), fremfor å
 Utvalgte prosjekter
 
 
-headless-cms-pentest-case-study
+headless-cms-pentest-case-study:
+
 Anonymisert grey-box penetrasjonstest og full defensiv herding av en headless CMS-webapplikasjon (bacheloroppgave) Inkluderer sladdet PoC-bevis for hvert funn og en uavhengig brukertest som bekrefter at sikkerhetsherdingen ikke gikk på bekostning av brukervennligheten.
 
-aws-cloud-security-baseline
+Aws-cloud-security-baseline:
+
 Sikker AWS-grunnmur bygget med Terraform, skannet med Checkov før utrulling og revidert med Prowler etterpå  92 % CIS-compliance oppnådd, kritiske funn redusert fra flere til nesten null.
 
-aws-threat-detection-baseline
+Aws-threat-detection-baseline:
+
 Administrert trusseldeteksjon for AWS GuardDuty og Security Hub koblet til en reell varslingspipeline med EventBridge og SNS, deployet med Terraform og skannet i CI. Følger opp aws-cloud-security-baseline: der revideres sikker konfigurasjon, her verifiseres det om noen faktisk oppdager det når noe går galt testet end-to-end med GuardDutys egne test-funn, ikke bare i teorien.
 
 Verktøy og teknologi
