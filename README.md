@@ -34,7 +34,7 @@ Jeg liker å finne ut hvordan systemer kan angripes og enda mer å bygge cloud-i
 🔧 Verktøy og teknologi
 
 
-Terraform · AWS · Checkov · Prowler · GuardDuty · Security Hub · EventBridge · SNS · Burp Suite · OWASP ZAP · Nmap · Nikto · GitHub Actions
+Terraform · AWS · Checkov · Prowler · GuardDuty · Security Hub · EventBridge · SNS · Burp Suite · OWASP ZAP · Nmap · Nikto 
 
 
 
