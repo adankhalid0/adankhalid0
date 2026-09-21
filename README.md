@@ -1,36 +1,20 @@
 Hei, jeg heter Khalid 👋
 
-Sikkerhetsstudent interessert i penetration testing, cloud security og defensiv sikkerhetsherding. Jeg liker å behandle prosjektene mine som reelle oppdrag med grundig dokumentasjon, reproduserbare bevis (PoC) og faktisk re-testing av tiltakene jeg implementerer.
+Cybersecuritystudent med bred interesse for faget med mest fokus på cloud security og offensiv sikkerhet i backend.
 
-Hva jeg viser gjennom prosjektene mine
+Jeg liker å forstå hvordan ting faktisk kan gå galt, og enda mer å finne ut hvordan man bygger og verifiserer at det ikke gjør det. Derfor bruker jeg fritiden på egne prosjekter ved siden av studiene — ikke for karakteren, men fordi jeg vil vise faktisk kompetanse fremfor bare teori. Dette repoet samler prosjektene der jeg bygger, angriper og forsvarer noe selv, dokumenterer det jeg finner, og tester at tiltakene faktisk virker.
 
-
-🔎 Offensiv sikkerhet:
-grey-box penetrasjonstesting etter OWASP WSTG / OWASP Top 10 — kartlegging, sårbarhetsanalyse, utnyttelse (PoC) og rapportering, med Burp Suite, OWASP ZAP, Nmap og Nikto
-
-
-🛡️ Cloud security: 
-sikker AWS-infrastruktur som kode med Terraform, statisk analyse med Checkov før utrulling, og compliance-revisjon med Prowler mot CIS AWS Foundations Benchmark — deployet mot reelle AWS-ressurser, ikke bare teori
-
-
-🧱 Secure by Design:
-flytter sikkerhetskritisk logikk dit den hører hjemme (server-side), fremfor å lappe enkeltfunn isolert — og verifiserer alltid at tiltakene faktisk virker gjennom re-testing
 Utvalgte prosjekter
 
-
 headless-cms-pentest-case-study:
-
-Anonymisert grey-box penetrasjonstest og full defensiv herding av en headless CMS-webapplikasjon (bacheloroppgave) Inkluderer sladdet PoC-bevis for hvert funn og en uavhengig brukertest som bekrefter at sikkerhetsherdingen ikke gikk på bekostning av brukervennligheten.
+Anonymisert grey-box penetrasjonstest og full defensiv herding av en headless CMS-webapplikasjon (bacheloroppgave, karakter B). Inkluderer sladdet PoC-bevis for hvert funn og en uavhengig brukertest som bekrefter at sikkerhetsherdingen ikke gikk på bekostning av brukervennligheten.
 
 Aws-cloud-security-baseline:
-
-Sikker AWS-grunnmur bygget med Terraform, skannet med Checkov før utrulling og revidert med Prowler etterpå  92 % CIS-compliance oppnådd, kritiske funn redusert fra flere til nesten null.
+Sikker AWS-grunnmur bygget med Terraform, skannet med Checkov før utrulling og revidert med Prowler etterpå — 92 % CIS-compliance oppnådd, kritiske funn redusert fra flere til nesten null.
 
 Aws-threat-detection-baseline:
-
-Administrert trusseldeteksjon for AWS GuardDuty og Security Hub koblet til en reell varslingspipeline med EventBridge og SNS, deployet med Terraform og skannet i CI. Følger opp aws-cloud-security-baseline: der revideres sikker konfigurasjon, her verifiseres det om noen faktisk oppdager det når noe går galt testet end-to-end med GuardDutys egne test-funn, ikke bare i teorien.
+Administrert trusseldeteksjon for AWS — GuardDuty og Security Hub koblet til en reell varslingspipeline med EventBridge og SNS, deployet med Terraform og skannet i CI. Følger opp aws-cloud-security-baseline: der revideres sikker konfigurasjon, her verifiseres det om noen faktisk oppdager det når noe går galt — testet end-to-end med GuardDutys egne test-funn, ikke bare i teorien.
 
 Verktøy og teknologi
 
-
-Terraform · Checkov · Prowler · Burp Suite · OWASP ZAP · Nmap · Nikto · AWS · GitHub Actions
+Terraform · Checkov · Prowler · GuardDuty · Security Hub · EventBridge · SNS · Burp Suite · OWASP ZAP · Nmap · Nikto · AWS · GitHub Actions
