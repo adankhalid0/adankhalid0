@@ -14,4 +14,8 @@ Jeg liker å finne ut hvordan systemer kan angripes og enda mer å bygge cloud-i
 🚨 aws-threat-detection-baseline - Trusseldeteksjon og varsling med GuardDuty og Security Hub
 
 
+
+
+
+
 🪜 Alltid villig til å utvikle nye ting og bygge på nye prosjekter.
