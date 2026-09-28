@@ -1,4 +1,4 @@
-"Hi, I'm Khalid 👋 I'm a student interested in a wide range of things in IT, with a bit of extra focus on cloud, Java, and defensive security. Here I share what I'm building and learning along the way
+Hi, I'm Khalid 👋 I'm a student interested in a wide range of things in IT, with a bit of extra focus on cloud, Java, and defensive security. Here I share what I'm building and learning along the way
 
 
 
