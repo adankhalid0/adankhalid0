@@ -8,4 +8,4 @@ Hi, I'm Khalid 👋 I'm a student interested in a wide range of things in IT, wi
 
 ---
 
-🪜 *Alltid villig til å utvikle nye ting og bygge på nye prosjekter.*
+🪜 *Always willing to develop new things and build on new projects.*
