@@ -21,4 +21,4 @@ I enjoy developing my skills through hands-on security projects and exploring ho
 
 ---
 
-🪜 *Always willing to develop new things and build on new projects.*
+🪜 Always learning and building new projects.
