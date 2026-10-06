@@ -1,4 +1,17 @@
-Hi, I'm Khalid 👋 I'm a student interested in a wide range of things in IT, with a bit of extra focus on cloud, Java, and defensive security. Here I share what I'm building and learning along the way.
+# Hi, I'm Khalid 👋
+
+Cybersecurity enthusiast with a strong interest in Cloud Security, Network Security, and Microsoft Azure.
+
+I enjoy developing my skills through hands-on security projects and exploring how cloud environments can be secured using modern security practices.
+
+
+## 🔐 Areas of Interest
+- Cloud Security
+- Microsoft Azure
+- Network Security
+- Zero Trust
+- Identity & Access Management
+- Penetration Testing
 
 
 
