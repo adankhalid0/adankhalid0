@@ -2,7 +2,7 @@
 
 Cybersecurity enthusiast with a strong interest in Cloud Security, Network Security, and Microsoft Azure.
 
-I enjoy developing my skills through hands-on security projects and exploring how cloud environments can be secured using modern security practices.
+I learn by building. My projects are about securing cloud environments and automating security work, and they are all documented on GitHub.
 
 
 ## 🔐 Areas of Interest
