@@ -17,7 +17,7 @@ I learn by building. My projects are about securing cloud environments and autom
 
 ### 🔧 Tools & Technology
 
-`Terraform` · `AWS` · `Checkov` · `Prowler` · `GuardDuty` · `Security Hub` · `EventBridge` · `SNS` · `Java` · `JDBC` · `Burp Suite` · `OWASP ZAP` · `Nmap` · `Nikto` 
+`Terraform` · `AWS` · `Checkov` · `Prowler` · `GuardDuty` · `Security Hub` · `EventBridge` · `SNS` · `Java` · `JDBC` · `Burp Suite` · `OWASP ZAP` · `Nmap` · `Nikto` `PowerShell` `Azure Policy`
 
 ---
 
